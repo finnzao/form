@@ -1,2 +1,2 @@
 # form
-formulário utilizando CSS com saída de dados 
+formulário utilizando HTML e CSS com saída de dados 
